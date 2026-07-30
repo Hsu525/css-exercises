@@ -4,13 +4,13 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.blue-font {
+#blue-font {
     color: blue;
     font-size: 36px;
 }
 
-.green-bg {
-    background-color: green;
+#green-bg {
+    background-color: rgb(112, 247, 112);
 }
 
 .big-font {
