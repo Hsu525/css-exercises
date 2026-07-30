@@ -1,1 +1,31 @@
 /* Add CSS Styling */
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#btn-gp {
+    background-color: white;
+    width: fit-content;
+    margin: auto;
+}
+
+.btns {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+    margin: 5px 3px;
+    text-align: center;
+}
+
+.btns.black-btn {
+    background-color: black;
+    color: white;
+}
+
+.btns.yellow-btn {
+    background-color: yellow;
+}
